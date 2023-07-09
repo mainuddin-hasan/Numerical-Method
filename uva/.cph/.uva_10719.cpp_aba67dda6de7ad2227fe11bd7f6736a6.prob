@@ -1,0 +1,1 @@
+{"name":"Local: uva_10719","url":"e:\\education\\vscode\\numerical\\uva\\uva_10719.cpp","tests":[{"id":1675699990981,"input":"3\n1 -7 15 -8\n3\n1 -7 15 -9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\education\\vscode\\numerical\\uva\\uva_10719.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 1","url":"e:\\education\\vscode\\numerical\\assign_3\\1.cpp","tests":[{"id":1683554709888,"input":"5\n1 2 3 4 5\n1 8 27 64 125\n1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\education\\vscode\\numerical\\assign_3\\1.cpp","group":"local","local":true}
